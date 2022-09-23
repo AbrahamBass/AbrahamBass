@@ -8,8 +8,8 @@
 
 ### A little more about me... 
 
-- :earth_americas: I'm from Medellin - Colombia
-- :video_game: I like to play video games
+- :earth_americas: I'm from Santa Marta - Colombia
+- :video_game: I love reading
 - :gem: I love to customize everything lol
 
 ```javascript
