@@ -6,7 +6,11 @@
 <a href="https://www.instagram.com/abraham.a_99/">![instagram](https://user-images.githubusercontent.com/102045047/192069326-37cbb5c8-582c-4f5b-a3c1-752b6c87be0a.svg)
  </a>
 
-### A little more about me...  
+### A little more about me... 
+
+- :earth_americas: I'm from Medellin - Colombia
+- :video_game: I like to play video games
+- :gem: I love to customize everything lol
 
 ```javascript
 const abraham = {
