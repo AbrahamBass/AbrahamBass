@@ -2,7 +2,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/102045047/192067819-23f7774b-60c3-41ab-b04e-8a5eed97e737.gif" width="320" height="320">
 <p><em>Full-Stack | Software engineer :robot:. (In progress)</br>Student at Plazit :man_technologist:</em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AbrahamBass?style=social">
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
