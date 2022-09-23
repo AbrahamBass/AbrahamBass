@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/abraham.a_99/">![instagram](https://user-images.githubusercontent.com/102045047/192069326-37cbb5c8-582c-4f5b-a3c1-752b6c87be0a.svg)
  </a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### ![giphy uu](https://user-images.githubusercontent.com/102045047/192069565-8fa8abbb-5807-45e5-bd42-ee3ec7c35a11.gif) A little more about me...  
 
 ```javascript
 const abraham = {
