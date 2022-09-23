@@ -1,6 +1,6 @@
 <h2> Hi, I'm Abraham Ariza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/102045047/192067819-23f7774b-60c3-41ab-b04e-8a5eed97e737.gif" width="320" height="320">
-<p><em>Full-Stack | Software engineer :robot:. (In progress)</br>Holberton School Student. :man_technologist:</em></p>
+<p><em>Full-Stack | Software engineer :robot:. (In progress)</br>Student at Plazit :man_technologist:</em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
