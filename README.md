@@ -2,8 +2,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/102045047/192067819-23f7774b-60c3-41ab-b04e-8a5eed97e737.gif" width="320" height="320">
 <p><em>Full-Stack | Software engineer :robot:. (In progress)</br>Student at Plazit :man_technologist:</em></p>
 
-<hr/>
-
+<a href="https://www.youtube.com/results?search_query=como+usar+shields.io+"> ![linkedin](https://user-images.githubusercontent.com/102045047/192069123-6f2a69ac-8953-4265-95db-a7e7b04478da.svg)</a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
