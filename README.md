@@ -1,5 +1,5 @@
 <h2> Hi, I'm Abraham Ariza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/102045047/192067819-23f7774b-60c3-41ab-b04e-8a5eed97e737.gif" width="500" height="500">
+<img align='right' src="https://user-images.githubusercontent.com/102045047/192067819-23f7774b-60c3-41ab-b04e-8a5eed97e737.gif" width="400" height="400">
 <p><em>Full-Stack | Software engineer :robot:. (In progress)</br>Student at Plazit :man_technologist:</em></p>
 
 <a href="https://www.linkedin.com/in/abraham-ariza-29a1a1245/"> ![linkedin](https://user-images.githubusercontent.com/102045047/192069123-6f2a69ac-8953-4265-95db-a7e7b04478da.svg)</a>
