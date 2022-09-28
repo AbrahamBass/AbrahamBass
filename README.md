@@ -16,7 +16,7 @@
 const abraham = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Sass],
-  tools: [React, Redux, Styled-Components, Jest, Docker, Tailwind],
+  tools: [React, Redux, Styled-Components, Jest, Docker, Tailwind, Git],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
