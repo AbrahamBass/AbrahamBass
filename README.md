@@ -2,9 +2,9 @@
 <img align='right' src="https://user-images.githubusercontent.com/102045047/192067819-23f7774b-60c3-41ab-b04e-8a5eed97e737.gif" width="200" height="200>
 <p><em>Full-Stack | Software engineer :robot:. (In progress)</br>Student at Plazit :man_technologist:</em></p>
 
-<a href="https://www.linkedin.com/in/abraham-ariza-29a1a1245/"> ![linkedin](https://user-images.githubusercontent.com/102045047/192069123-6f2a69ac-8953-4265-95db-a7e7b04478da.svg)</a>
-<a href="https://www.instagram.com/abraham.a_99/">![instagram](https://user-images.githubusercontent.com/102045047/192069326-37cbb5c8-582c-4f5b-a3c1-752b6c87be0a.svg)
+<a href="https://www.linkedin.com/in/abraham-ariza-29a1a1245/"> ![linkedin](https://user-images.githubusercontent.com/102045047/192069123-6f2a69ac-8953-4265-95db-a7e7b04478da.svg)</a> <a href="https://www.instagram.com/abraham.a_99/">![instagram](https://user-images.githubusercontent.com/102045047/192069326-37cbb5c8-582c-4f5b-a3c1-752b6c87be0a.svg)
  </a>
+
 
 ### A little more about me... 
 
