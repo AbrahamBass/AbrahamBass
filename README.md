@@ -7,9 +7,8 @@
 
 ### A little more about me... 
 
-- :earth_americas: I'm from Santa Marta - Colombia
+- :earth_americas: I'm from Colombia
 - :video_game: I love reading
-- :gem: I love to customize everything lol
 
 ```javascript
 const abraham = {
