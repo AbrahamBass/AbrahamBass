@@ -11,7 +11,7 @@
 - I love reading
 
 ```javascript
-const abraham = {
+const Abraham = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, 
   CSS, Sass, Tailwind, React, Redux, Git, Jest, Docker, Angular]
