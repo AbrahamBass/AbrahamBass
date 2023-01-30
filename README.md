@@ -13,8 +13,8 @@
 ```javascript
 const Abraham = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, 
-  CSS, Sass, Tailwind, React, Redux, Git, Jest, Docker, Angular]
+  code: [Javascript, Typescript, HTML, Go, MongoDB,
+  CSS, Sass, Tailwind, React, Redux, Git]
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
