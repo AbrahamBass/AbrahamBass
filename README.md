@@ -1,15 +1,16 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://github.com/AbrahamBass/AbrahamBass">Abraham</a> </h1>
+  <h1 align="center">Hola, Soy <a href="https://github.com/AbrahamBass/AbrahamBass">AbrahamBass</a> </h1>
 </div>
 
 ![Programming Image](https://your-cool-programming-image-link.jpg)
 
 ## Sobre mí
-👨‍💻 Soy estudiante de desarrollo de software, especializado en el desarrollo del lado del servidor. Me fascina el desarrollo backend y tengo la capacidad de crear soluciones robustas y escalables. Con una sólida comprensión de la arquitectura de software, puedo diseñar e implementar sistemas complejos que satisfacen las necesidades de los usuarios y empresas. 🌐 Además, disfruto trabajando en equipo y colaborando con otros desarrolladores para entregar productos de alta calidad. Estoy comprometido con el crecimiento profesional continuo y la adaptación a un entorno en constante evolución para tener un impacto significativo en los proyectos. 🚀 Mi pasión por la tecnología me impulsa a mantenerme al día con las últimas tendencias y avances en el campo, lo que me permite aportar ideas frescas e innovadoras a cada proyecto en el que participo. Puedes contactarme a través de mi correo: <span style="color: lightblue; text-decoration: underline;">abrixa12@gmail.com</span> y también puedes ver mi currículum <a href="https://www.link-a-tu-curriculum.com" style="color: lightblue; text-decoration: underline;">aquí</a>.
-
-- 👨‍💻 Soy estudiante de desarrollo de software, especializado en el desarrollo del lado del servidor. Me fascina el desarrollo backend y tengo la capacidad de crear soluciones robustas y escalables. Con una sólida comprensión de la arquitectura de software, puedo diseñar e implementar sistemas complejos que satisfacen las necesidades de los usuarios y empresas.
-- 🤝 Además, disfruto trabajando en equipo y colaborando con otros desarrolladores para entregar productos de alta calidad. Estoy comprometido con el crecimiento profesional continuo y la adaptación a un entorno en constante evolución para tener un impacto significativo en los proyectos.
-- 🚀 Mi pasión por la tecnología me impulsa a mantenerme al día con las últimas tendencias y avances en el campo, lo que me permite aportar ideas frescas e innovadoras a cada proyecto en el que participo.
+- 👨‍💻 Soy estudiante de desarrollo de software, especializado en el desarrollo [backend](https://github.com/AbrahamBass/AbrahamBass) 😊.
+- 💻 Me apasiona el desarrollo y puedo crear [soluciones](https://github.com/AbrahamBass/AbrahamBass) 😎 escalables.
+- 🛠️ Tengo una sólida comprensión de la arquitectura de software y diseño de sistemas complejos.
+- 🤝 Disfruto trabajando en equipo y [colaborando](https://github.com/AbrahamBass/AbrahamBass) para entregar productos de alta calidad.
+- 📈 Estoy comprometido con el crecimiento [profesional](https://github.com/AbrahamBass/AbrahamBass) y la adaptación a entornos en constante evolución.
+- 🚀 Mi pasión por la tecnología me impulsa a [mantenerme](https://github.com/AbrahamBass/AbrahamBass) al día con las últimas [tendencias](https://github.com/AbrahamBass/AbrahamBass) y avances.
 - 📧 Puedes contactarme a través de mi correo: <span style="color: lightblue; text-decoration: underline; text-decoration-color: lightblue;">abrixa12@gmail.com</span> y también puedes ver mi currículum <a href="https://www.link-a-tu-curriculum.com" style="color: lightblue; text-decoration: underline; text-decoration-color: lightblue;">aquí</a>.
 
 ## <span style="color: lightblue; text-decoration: underline;">Habilidades</span>
