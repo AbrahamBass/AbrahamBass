@@ -1,4 +1,6 @@
-# ¡Hola, soy <span style="color: lightblue; text-decoration: underline;">Abraham Moisés</span>!
+¡Hola, soy <span style="color: lightblue; text-decoration: underline; text-decoration-color: lightblue;">Abraham Moisés</span>!
+
+![Programming Image](https://your-cool-programming-image-link.jpg)
 
 ![Programming Image](https://your-cool-programming-image-link.jpg)
 
