@@ -2,22 +2,22 @@
   <h1 align="center">Hola, Soy <a href="https://github.com/AbrahamBass/AbrahamBass">AbrahamBass</a> </h1>
 </div>
 
-![Programming Image](https://your-cool-programming-image-link.jpg)
+![Programming Image](https://images.pexels.com/photos/11035474/pexels-photo-11035474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <div>
   <h3>Sobre <a href="https://github.com/AbrahamBass/AbrahamBass">Mi</a> 👇</h1>
 </div>
 
-- 👨‍💻 Soy estudiante de desarrollo de [software](https://github.com/AbrahamBass/AbrahamBass), especializado en el desarrollo [backend](https://github.com/AbrahamBass/AbrahamBass) 😊.
-- 💻 Me apasiona el [desarrollo](https://github.com/AbrahamBass/AbrahamBass) y puedo crear [soluciones](https://github.com/AbrahamBass/AbrahamBass) 😎 escalables.
-- 🛠️ Tengo una sólida comprensión de la arquitectura de software y diseño de sistemas complejos.
-- 🤝 Disfruto [trabajando](https://github.com/AbrahamBass/AbrahamBass) en equipo y [colaborando](https://github.com/AbrahamBass/AbrahamBass) para entregar productos de alta calidad.
-- 📈 Estoy comprometido con el crecimiento [profesional](https://github.com/AbrahamBass/AbrahamBass) y la adaptación a entornos en constante evolución.
-- 🚀 Mi pasión por la tecnología me impulsa a [mantenerme](https://github.com/AbrahamBass/AbrahamBass) al día con las últimas [tendencias](https://github.com/AbrahamBass/AbrahamBass) y avances.
+👨‍💻 Soy estudiante de desarrollo de [software](https://github.com/AbrahamBass/AbrahamBass), especializado en el desarrollo [backend](https://github.com/AbrahamBass/AbrahamBass) 😊.
+💻 Me apasiona el [desarrollo](https://github.com/AbrahamBass/AbrahamBass) y puedo crear [soluciones](https://github.com/AbrahamBass/AbrahamBass) 😎 escalables.
+🛠️ Tengo una sólida comprensión de la arquitectura de software y diseño de sistemas complejos.
+🤝 Disfruto [trabajando](https://github.com/AbrahamBass/AbrahamBass) en equipo y [colaborando](https://github.com/AbrahamBass/AbrahamBass) para entregar productos de alta calidad.
+📈 Estoy comprometido con el crecimiento [profesional](https://github.com/AbrahamBass/AbrahamBass) y la adaptación a entornos en constante evolución.
+🚀 Mi pasión por la tecnología me impulsa a [mantenerme](https://github.com/AbrahamBass/AbrahamBass) al día con las últimas [tendencias](https://github.com/AbrahamBass/AbrahamBass) y avances.
 - 📧 Puedes contactarme a través de mi correo: <span style="color: lightblue; text-decoration: underline; text-decoration-color: lightblue;">abrixa12@gmail.com</span> y también puedes ver mi currículum <a href="https://www.link-a-tu-curriculum.com" style="color: lightblue; text-decoration: underline; text-decoration-color: lightblue;">aquí</a>.
 
 <div>
-  <h3>Mis<a href="https://github.com/AbrahamBass/AbrahamBass">Skills</a> </h1>
+  <h3>Mi <a href="https://github.com/AbrahamBass/AbrahamBass">Skills</a> 👇</h1>
 </div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
